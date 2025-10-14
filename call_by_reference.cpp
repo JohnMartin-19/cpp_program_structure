@@ -1,3 +1,5 @@
+///// we use the (&) to call b reference.
+
 #include<iostream>
 using namespace std;
 
