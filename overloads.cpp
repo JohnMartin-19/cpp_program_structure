@@ -1,4 +1,4 @@
-//////Allows functions to share the same function name but they should have different parameter types.or they take diffrent number of params
+//////Function Overlaods - Allows functions to share the same function name but they should have different parameter types.or they take diffrent number of params
 #include <iostream>
 using namespace std;
 
